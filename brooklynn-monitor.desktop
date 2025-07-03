@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Brooklynn Monitor
+Exec=/usr/bin/brooklynn-monitor
+Icon=utilities-system-monitor
+Terminal=false
+Categories=Utility;System;
